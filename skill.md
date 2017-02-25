@@ -16,6 +16,8 @@ This is personal skill reflection on different tools.
 | 9             | skill 8 + contributed to the project.
 | 10 (expert)   | skill 9 + many years of experience + core contributor to the project.
 
+-----------
+
 - copy (3), xcopy (3)
 - devenv (1)
 - git (7)
