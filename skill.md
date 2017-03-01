@@ -18,16 +18,19 @@ This is personal skill reflection on different tools.
 
 -----------
 
-- copy (3), xcopy (3)
-- devenv (1)
-- git (7)
-- msbuild (1)
-  - msbuild /t:<target1;target2> <proj-file>
-- tfpt (1)
-- tf (1)
-- robocopy (1)
-- dumpbin (0)
-- wget (3)
-- start (4)
-  - start shell:startup
-  - start .  
+```
+copy (3)
+xcopy (3)
+devenv (1)
+git (7)
+msbuild (1)
+  msbuild /t:target1;target2 <proj-file>
+tfpt (1)
+tf (1)
+robocopy (1)
+dumpbin (0)
+wget (3)
+start (4)
+  start shell:startup
+  start .  
+```
