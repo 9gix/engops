@@ -22,6 +22,7 @@ This is personal skill reflection on different tools.
 - devenv (1)
 - git (7)
 - msbuild (1)
+  - msbuild /t:<target1;target2> <proj-file>
 - tfpt (1)
 - tf (1)
 - robocopy (1)
