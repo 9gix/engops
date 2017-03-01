@@ -26,3 +26,7 @@ This is personal skill reflection on different tools.
 - tf (1)
 - robocopy (1)
 - dumpbin (0)
+- wget (3)
+- start (4)
+  - start shell:startup
+  - start .  
