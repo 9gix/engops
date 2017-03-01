@@ -23,7 +23,7 @@ copy (3)
 xcopy (3)
 devenv (1)
 git (7)
-msbuild (1)
+msbuild (2)
   msbuild /t:target1;target2 <proj-file>
 tfpt (1)
 tf (1)
